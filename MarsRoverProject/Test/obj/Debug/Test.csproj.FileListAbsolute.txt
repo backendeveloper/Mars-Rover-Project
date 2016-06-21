@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\MarsRoverProject\Test\bin\Debug\Test.dll
+\\Mac\Home\Desktop\MarsRoverProject\Test\bin\Debug\Test.pdb
+\\Mac\Home\Desktop\MarsRoverProject\Test\bin\Debug\Core.dll
+\\Mac\Home\Desktop\MarsRoverProject\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\Mac\Home\Desktop\MarsRoverProject\Test\bin\Debug\Core.pdb
+\\Mac\Home\Desktop\MarsRoverProject\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+\\Mac\Home\Desktop\MarsRoverProject\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\MarsRoverProject\Test\obj\Debug\Test.dll
+\\Mac\Home\Desktop\MarsRoverProject\Test\obj\Debug\Test.pdb

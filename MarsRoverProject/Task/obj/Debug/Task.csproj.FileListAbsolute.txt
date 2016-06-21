@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\MarsRoverProject\Task\bin\Debug\Task.exe.config
+\\Mac\Home\Desktop\MarsRoverProject\Task\bin\Debug\Task.exe
+\\Mac\Home\Desktop\MarsRoverProject\Task\bin\Debug\Task.pdb
+\\Mac\Home\Desktop\MarsRoverProject\Task\bin\Debug\Core.dll
+\\Mac\Home\Desktop\MarsRoverProject\Task\bin\Debug\Core.pdb
+\\Mac\Home\Desktop\MarsRoverProject\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\MarsRoverProject\Task\obj\Debug\Task.exe
+\\Mac\Home\Desktop\MarsRoverProject\Task\obj\Debug\Task.pdb

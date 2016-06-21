@@ -1,0 +1,4 @@
+\\Mac\Home\Desktop\MarsRoverProject\Core\bin\Release\Core.dll
+\\Mac\Home\Desktop\MarsRoverProject\Core\bin\Release\Core.pdb
+\\Mac\Home\Desktop\MarsRoverProject\Core\obj\Release\Core.dll
+\\Mac\Home\Desktop\MarsRoverProject\Core\obj\Release\Core.pdb
